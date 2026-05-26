@@ -73,6 +73,12 @@ One of the main developers involved in rewriting a mobile content ad delivery sy
 - Supported different regulations and business rules from one maintainable codebase
 - Worked on high-impact backend systems for international mobile content delivery
 
+### Freelance Software Developer
+
+January 1998 - October 2013
+
+Built custom software for clients across different industries, including web applications, CRM systems, employee management systems, MLM systems, game systems, and other business applications. Technologies included PHP, ASP, C++, DirectX, Android SDK, Java, Visual Basic, and custom client-specific stacks.
+
 ## Best Fit
 
 I am a strong fit for teams that need a dependable senior or lead full-stack developer for serious production work, especially SaaS products, internal tools, business applications, existing codebase improvement, API/database work, and remote product engineering roles.
