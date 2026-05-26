@@ -9,7 +9,7 @@ GitHub: https://github.com/aaron-lim
 
 ## Summary
 
-Senior full-stack developer with lead-level experience building, maintaining, and improving production SaaS, web, mobile, API, and database-backed systems. I work well with founders, CTOs, product teams, agencies, and business owners who need a developer who can understand an existing codebase quickly, make practical technical decisions, and deliver production-ready work without constant hand-holding.
+Senior full-stack developer who has been programming since 1998, with formal senior and lead software roles since 2013. I have lead-level experience building, maintaining, and improving production SaaS, web, mobile, API, and database-backed systems. I work well with founders, CTOs, product teams, agencies, and business owners who need a developer who can understand an existing codebase quickly, make practical technical decisions, and deliver production-ready work without constant hand-holding.
 
 I am currently looking for remote opportunities only.
 
@@ -31,6 +31,13 @@ I am currently looking for remote opportunities only.
 - Databases: PostgreSQL, MySQL
 - APIs and integrations: REST APIs, third-party integrations, payment systems, CRMs, calendars
 - Product engineering: SaaS development, debugging, refactoring, performance optimization, deployment support
+
+## Timeline
+
+- 1998: Started programming and building software
+- 2013 - 2014: Senior Software Developer at Sam Media
+- 2014 - 2016: Senior Software Developer at Booster
+- 2016 - Present: Lead Software Developer at Hivekind
 
 ## Experience
 
