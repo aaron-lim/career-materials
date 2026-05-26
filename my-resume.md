@@ -2,14 +2,14 @@
 
 Senior Full-Stack Engineer | Lead Software Developer
 
-Balik Pulau, Malaysia | Remote only
+Kuala Lumpur, Malaysia | Remote only
 
 Email: aaron.lim.yu.kwang@gmail.com  
 GitHub: https://github.com/aaron-lim
 
 ## Summary
 
-Senior full-stack developer who has been programming since 1998, with formal senior and lead software roles since 2013. I have lead-level experience building, maintaining, and improving production SaaS, web, mobile, API, and database-backed systems. I work well with founders, CTOs, product teams, agencies, and business owners who need a developer who can understand an existing codebase quickly, make practical technical decisions, and deliver production-ready work without constant hand-holding.
+Senior full-stack developer who has been programming since 1998, with formal senior and lead software roles since 2013. I have lead-level experience building, maintaining, and improving production SaaS, web, mobile, API, and database-backed systems, including an appointment-booking SaaS with 9M+ user accounts. I work well with founders, CTOs, product teams, agencies, and business owners who need a developer who can understand an existing codebase quickly, make practical technical decisions, and deliver production-ready work without constant hand-holding.
 
 I am currently looking for remote opportunities only.
 
@@ -45,9 +45,9 @@ I am currently looking for remote opportunities only.
 
 May 2016 - Present
 
-Lead developer for a mature production SaaS appointment booking platform used by businesses to manage scheduling, customer bookings, staff availability, and daily operations.
+Lead developer for a mature appointment-booking SaaS with 9M+ user accounts, supporting real customer workflows across scheduling, bookings, staff availability, and daily business operations.
 
-- Lead development work across product features, maintenance, reliability, and production debugging
+- Lead development, debugging, reliability work, and product improvements for a production SaaS with 9M+ user accounts
 - Plan and implement product improvements from business requirements through working software
 - Maintain and improve an existing production system used by real customers
 - Investigate production issues and make technical decisions that support long-term stability
@@ -72,18 +72,6 @@ One of the main developers involved in rewriting a mobile content ad delivery sy
 - Helped replace multiple country-specific codebase variants with a configuration-driven system
 - Supported different regulations and business rules from one maintainable codebase
 - Worked on high-impact backend systems for international mobile content delivery
-
-## Selected Work
-
-### FS - Appointment Booking SaaS Platform
-
-Production SaaS platform for appointment booking, scheduling, customer bookings, staff availability, and daily business operations.
-
-### ClientFlow CRM - Laravel SaaS Portfolio Project
-
-Laravel SaaS portfolio project focused on CRM-style business workflows.
-
-Repository: https://github.com/aaron-lim/clientflow-crm
 
 ## Best Fit
 
